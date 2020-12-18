@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Initiated!"
-date:   2020-12-18 17:58 +0100
+date:   2020-12-18 17:58:00 +0100
 categories: bgstracker update
 ---
 
