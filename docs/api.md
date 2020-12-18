@@ -44,7 +44,7 @@ set of supported events encoded as a JSON array as body.~~ _TODO:_ rewrite this.
 
 _Example:_
 
-```http request
+```
 GET /session HTTP/1.1
 Host: example.com
 
