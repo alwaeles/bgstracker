@@ -18,7 +18,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   An Elite: Dangerous BGS activity tracking system made for squadrons.
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
